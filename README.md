@@ -13,7 +13,7 @@
   <legend align="left"><h3>👩🏻‍💻 About me</h3></legend>
 
   <em>
-I'm a Web developer and student of <strong>Information Technologies and Digital Innovation</strong> at <strong>Universidad Tecnológica de Cancún</strong>. Always learning :D</p>
+I'm a Web developer and student of <strong>Information Technologies and Digital Innovation</strong>. Constantly learning :D</p>
   </em> 
   <br>
 <div align= "center">
@@ -37,6 +37,7 @@ I'm a Web developer and student of <strong>Information Technologies and Digital 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   </kbd>
   <kbd>
     <kbd>Library/FrameWorks</kbd>
@@ -46,6 +47,7 @@ I'm a Web developer and student of <strong>Information Technologies and Digital 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> 
     <img width="30px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" /> 
+    <img width="30px" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" /> 
   </kbd>
   <kbd>
     <kbd>Outros</kbd>
