@@ -13,7 +13,7 @@
   <legend align="left"><h3>👩🏻‍💻 About me</h3></legend>
 
   <em>
-I'm a Web developer and student of <strong>Information Technologies and Digital Innovation</strong>. Constantly learning :D</p>
+I'm a web developer and student of <strong>Information Technologies and Digital Innovation</strong>. Constantly learning :D</p>
   </em> 
   <br>
 <div align= "center">
